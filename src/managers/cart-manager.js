@@ -1,5 +1,5 @@
 const fs = require('fs')
-const pathToCart = 'src/data/cart.json'
+const pathToCart = 'src/files/Products.json'
 
 
 class Contenedor{
